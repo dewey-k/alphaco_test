@@ -1,2 +1,2 @@
 # alphaco_test
-deweykwakdasdfasdfdsafkljl
+' 파이썬 설치하기
